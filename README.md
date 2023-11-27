@@ -1,2 +1,4 @@
 # SQL-Performance-comparison
-This is report to compare the performance of a branch 
+This is a report to compare the performance of a branch.<br>
+
+Auth-Bishal Bastola
